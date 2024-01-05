@@ -1,3 +1,5 @@
+This project has been moved to https://github.com/lkesteloot/trs80
+
 # z80-base
 
 This is a set of TypeScript-based classes and utilities for writing
